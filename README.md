@@ -41,3 +41,42 @@ Tags - they instruct your browser what element it is going to bring.
     </ol>
 </body>
 </html>
+<!--000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000-->
+
+//Warming up with different sytles in CSS
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Writing Selectors Exercise</title>
+  <style>
+    .item
+      {
+      text-align: center; color:red;
+    }
+    
+
+    /* missing class */
+      {
+      color: red;
+    }
+
+   .picture
+      {
+      border-radius: 5px;
+    }
+
+   .description
+      {
+      font-style: italic; text-align: center; 
+    }
+  </style>
+</head>
+<body>
+  <div id="menu">
+    <h1 class="item">Chicken Clay Pot</h1>
+    <img src="img/clay-pot.jpg" alt="clay pot" class="picture">
+    <p class="description">Crispy rice baked in clay pot topped with chicken and vegetables</p>
+  </div>
+</body>
+</html>
