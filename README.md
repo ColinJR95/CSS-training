@@ -27,7 +27,7 @@ Tags - they instruct your browser what element it is going to bring.
 
     <p>Paragraph - Lorem ipsum dolor sit amet, <a href="#">link</a>! Consectetur adipisicing elit. Nisi voluptatem dignissimos non totam id, cum doloribus minima illum sequi provident similique ipsam porro ducimus animi nemo ipsum corporis aliquid culpa.</p>
     <p>Paragraph - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi voluptatem dignissimos <a href="#">another link</a>! Non totam id, cum doloribus minima illum sequi provident similique ipsam porro ducimus animi nemo ipsum corporis aliquid culpa.</p>
-
+note that lorem is actually just a filler. 
     <ul>
         <li>unordered list</li>
         <li>unordered list</li>
